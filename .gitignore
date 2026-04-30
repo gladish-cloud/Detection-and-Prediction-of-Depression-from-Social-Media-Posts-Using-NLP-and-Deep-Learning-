@@ -1,0 +1,7 @@
+mental_env/
+venv/
+__pycache__/
+*.pyc
+*.joblib
+*.dll
+data/artifacts/

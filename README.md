@@ -1,0 +1,2 @@
+# Detection-and-Prediction-of-Depression-from-Social-Media-Posts-Using-NLP-and-Deep-Learning-
+This research proposes a deep learning framework to detect depression early using Twitter data by analyzing text, topics, and emoji sentiments. It applies NLP, TF-IDF, LDA, and models like LSTM and BERT. The BERT model achieves 93% accuracy, enabling effective and proactive mental health monitoring and early intervention.
